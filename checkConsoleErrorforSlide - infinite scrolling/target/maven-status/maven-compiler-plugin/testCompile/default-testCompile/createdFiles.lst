@@ -1,0 +1,9 @@
+stepDefination\Blog.class
+setupClass\TestRunner.class
+stepDefination\eBooks.class
+setupClass\BaseClass.class
+stepDefination\FreePPT.class
+stepDefination\MostDownload.class
+setupClass\TakeImageStep.class
+stepDefination\HomePage.class
+stepDefination\SliPage.class

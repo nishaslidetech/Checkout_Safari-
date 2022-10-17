@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="VerifyTeamCoupon"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="SetUpClass.TestRunner"/>
+        <listEntry value="SetUpClass.CommonClass"/>
+        <listEntry value="stepDefinations.rough"/>
+        <listEntry value="stepDefinations.Verify_Summer35_Copoun"/>
+        <listEntry value="SetUpClass.BaseClass"/>
+        <listEntry value="stepDefinations.Verify_40_Delete_Coupon"/>
+        <listEntry value="stepDefinations.TakeImageStep"/>
+        <listEntry value="stepDefinations.Verify_5OFF_Coupon"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

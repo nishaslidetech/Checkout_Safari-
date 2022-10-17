@@ -1,0 +1,4 @@
+# Created at 2022-05-26T12:34:33.583
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Selenium Live Projects\checkConsoleErrorforSlide\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

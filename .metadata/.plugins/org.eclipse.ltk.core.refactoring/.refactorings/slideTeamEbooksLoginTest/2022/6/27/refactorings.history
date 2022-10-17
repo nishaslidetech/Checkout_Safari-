@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;TakeImageStep.java&apos; to &apos;slideTeamEbooksLoginTest/src/test/java/stepDefination&apos;&#x0D;&#x0A;- Original project: &apos;slideTeamEbooksLoginTest&apos;&#x0D;&#x0A;- Destination element: &apos;slideTeamEbooksLoginTest/src/test/java/stepDefination&apos;&#x0D;&#x0A;- Original element: &apos;BaseClass.TakeImageStep.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;stepDefination" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;BaseClass{TakeImageStep.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1656500499343" units="1" version="1.0"/>
+</session>

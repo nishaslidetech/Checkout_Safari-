@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Selenium Live Projects\Checkout - safari"/>
+			<item value="D:\Selenium Live Projects\SlideGeeks-Sign-up-Lite"/>
+			<item value="D:\Selenium Live Projects\GeeksResolutionCheck"/>
+			<item value="D:\Selenium Live Projects\TeamResolutionCheckDaily"/>
+			<item value="D:\Selenium Live Projects\GeeksConsoleErrorCheck"/>
+			<item value="D:\Selenium Live Projects\PageObjectModelBasics"/>
+			<item value="D:\Selenium Live Projects\SlideTeam-IE-Checkout"/>
+			<item value="D:\Selenium Live Projects\TeamResolutionCheckDailyPagination"/>
+			<item value="D:\Selenium Live Projects\SlideTeamLoginTest"/>
+			<item value="D:\Selenium Live Projects\Sli_Geeks"/>
+			<item value="D:\Selenium Live Projects\Sli_update_Slideteam"/>
+			<item value="D:\Selenium Live Projects\Magento_and_sli_pages"/>
+			<item value="D:\Selenium Live Projects\slidegeeksLoginTest"/>
+			<item value="D:\Selenium Live Projects\slidetech_lite"/>
+			<item value="D:\Selenium Live Projects\ST_Script_2_5_Dec_Updates"/>
+			<item value="D:\Selenium Live Projects\WWW1_TEST1"/>
+			<item value="D:\Selenium Live Projects\Slidegeeks-Checkout-FF"/>
+			<item value="D:\Selenium Live Projects\Geek-Script"/>
+			<item value="D:\Selenium Live Projects\Checkout"/>
+			<item value="D:\Selenium Live Projects\SlideGeeks-Checkout"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="true"/>
+		<item key="DIALOG_WIDTH" value="662"/>
+		<item key="DIALOG_HEIGHT" value="434"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="false"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Selenium Live Projects\GeeksConsoleErrorCheck"/>
+			<item value="D:\Selenium Live Projects\AdminUrlTest-"/>
+			<item value="D:\Selenium Live Projects\WWW1_TEST1"/>
+			<item value="D:\Selenium Live Projects\HeaderFooter"/>
+			<item value="D:\Selenium Live Projects\stwebsite1"/>
+			<item value="D:\Selenium Live Projects\Slidegeeks-Header-Footer"/>
+			<item value="D:\Selenium Live Projects\Signup_Test-"/>
+			<item value="D:\Selenium Live Projects\Checkout"/>
+			<item value="D:\Selenium Live Projects\slidetech_lite"/>
+			<item value="D:\Selenium Live Projects\checkConsoleErrorforSlide"/>
+			<item value="C:\Users\SLIDE QA\eclipse-workspace\SlideteamLogin"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.dialogs.FilteredResourcesSelectionDialog">
+		<item key="ShowStatusLine" value="true"/>
+		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode/&gt;&#x0D;&#x0A;&lt;/History&gt;"/>
+		<item key="ShowDerived" value="false"/>
+		<item key="FilterByLocation" value="false"/>
+		<item key="WorkingSet" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;workingSet workingSetName=&quot;&quot;/&gt;"/>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="669"/>
+			<item key="DIALOG_Y_ORIGIN" value="191"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

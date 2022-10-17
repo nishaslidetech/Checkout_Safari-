@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TakeImageStep.java&apos; to &apos;VerifyTeamCoupon/src/test/java/stepDefinations&apos;&#x0D;&#x0A;- Original project: &apos;AdminUrlTest-&apos;&#x0D;&#x0A;- Destination element: &apos;VerifyTeamCoupon/src/test/java/stepDefinations&apos;&#x0D;&#x0A;- Original element: &apos;SetupClass.TestStep.TakeImageStep.java&apos;" description="Copy compilation unit" destination="=VerifyTeamCoupon/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;stepDefinations" element1="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;SetupClass.TestStep{TakeImageStep.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1663070031936" units="1" version="1.0"/>
+</session>

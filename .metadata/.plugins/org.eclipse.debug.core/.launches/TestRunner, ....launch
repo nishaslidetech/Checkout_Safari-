@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ConsoleErrorGit"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="stepDefination.SliPage"/>
+        <listEntry value="stepDefination.Blog"/>
+        <listEntry value="stepDefination.eBooks"/>
+        <listEntry value="stepDefination.TakeImageStep"/>
+        <listEntry value="stepDefination.FreePPT"/>
+        <listEntry value="stepDefination.MostDownload"/>
+        <listEntry value="setupClass.TestRunner"/>
+        <listEntry value="setupClass.BaseClass"/>
+        <listEntry value="stepDefination.HomePage"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>
