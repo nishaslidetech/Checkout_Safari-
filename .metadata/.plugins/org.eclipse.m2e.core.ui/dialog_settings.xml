@@ -64,12 +64,16 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="verifyCouponcodeForGeeks"/>
+			<item value="Safari_TeamConsole_error"/>
 			<item value="VerifyTeamCoupon"/>
 			<item value="SlideGeeks.script1"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="verifyCouponcodeForGeeks"/>
+			<item value="Safari_TeamConsole_error"/>
 			<item value="VerifyTeamCoupon"/>
 			<item value="SlideGeeks.script1"/>
 		</list>

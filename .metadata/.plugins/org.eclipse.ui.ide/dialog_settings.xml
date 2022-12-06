@@ -7,6 +7,9 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Selenium Live Projects\Geeks_sli_Magento_pages"/>
+			<item value="D:\Selenium Live Projects\Checkout"/>
+			<item value="D:\Git Backup\Checkout"/>
 			<item value="D:\Selenium Live Projects\Checkout - safari"/>
 			<item value="D:\Selenium Live Projects\SlideGeeks-Sign-up-Lite"/>
 			<item value="D:\Selenium Live Projects\GeeksResolutionCheck"/>
@@ -24,9 +27,6 @@
 			<item value="D:\Selenium Live Projects\ST_Script_2_5_Dec_Updates"/>
 			<item value="D:\Selenium Live Projects\WWW1_TEST1"/>
 			<item value="D:\Selenium Live Projects\Slidegeeks-Checkout-FF"/>
-			<item value="D:\Selenium Live Projects\Geek-Script"/>
-			<item value="D:\Selenium Live Projects\Checkout"/>
-			<item value="D:\Selenium Live Projects\SlideGeeks-Checkout"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
